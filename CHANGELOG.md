@@ -6,6 +6,7 @@ All notable changes to this project will be documented in this file. For change 
 - Added an Arabic localization. [#267](https://github.com/Project-OSRM/osrm-text-instructions/pull/267)
 - Added a Slovenian localization. [#264](https://github.com/Project-OSRM/osrm-text-instructions/pull/264)
 - Updated French grammar with 'chaussée' status street name. [#268](https://github.com/Project-OSRM/osrm-text-instructions/pull/268)
+- Global search option is now required for all grammar rules. [#228] (https://github.com/Project-OSRM/osrm-text-instructions/pull/228)
 
 ## 0.13.2 2018-08-13
 
